@@ -1,4 +1,7 @@
-###########!/bin/bash
+<<<<<<< HEAD
+#!/bin/env python
 
 #description:aaaaaaaaaaaaa
 #checkconfig 123456
+
+合并完成
