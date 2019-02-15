@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env python
 
 #description:aaaaaaaaaaaaa
 #checkconfig 123456
