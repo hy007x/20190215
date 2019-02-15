@@ -1,3 +1,4 @@
 #!/bin/bash
 
 #description:aaaaaaaaaaaaa
+#checkconfig 123456
